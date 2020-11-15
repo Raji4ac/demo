@@ -54,7 +54,7 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://35.221.62.64:8082/repository/maven-snapshots/</url>
+      <url>http://35.221.62.64:8082/repository/Demo_Artifact/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
